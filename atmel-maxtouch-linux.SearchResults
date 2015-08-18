@@ -1,0 +1,24 @@
+---- MXT_T9_SUPPRESS Matches (2 in 1 files) ----
+atmel_mxt_ts.c (drivers\input\touchscreen):#define MXT_T9_SUPPRESS		(1 << 1)
+atmel_mxt_ts.c (drivers\input\touchscreen):		(status & MXT_T9_SUPPRESS) ? 'S' : '.',
+---- MXT_T9_SUPPRESS Search Errors Encountered (19) ----
+The following 19 files could not be processed:
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux : File could not be opened.
+C:\Users\Janus\Documents\unix_home\proj\atmel\maxtouch\github\linux\drivers\gpu\drm\nouveau\core\subdev\i2c\aux.c : File could not be opened.
